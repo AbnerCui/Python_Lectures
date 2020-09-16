@@ -10,4 +10,4 @@ Include
 
 4. Python Mathematics Tools and Time Series
 
-
+The link of lectures video playback is in PythonSessions_Conclusion.pptx
